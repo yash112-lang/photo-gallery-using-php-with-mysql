@@ -6,7 +6,7 @@
 
 </head>
 <body>
-    <center><br>
+    <br>
         <a href='images.php'><button class="btn btn-info">View Images</button></a><br><br>
         <form action="upload.php" method="post" enctype="multipart/form-data">
             Select Image File to Upload:<br><br><br>
@@ -14,6 +14,6 @@
             <input class="btn btn-primary" type="submit" name="submit" value="Upload">
         </form>
         <hr>
-    </center>  
+     
 </body>
 </html>    
